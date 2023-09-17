@@ -1,28 +1,3 @@
----
-name: This is a Smart Traffic Signal system Project
-slug: this-is-a-smart-traffic-signal-system-project
-reference_id:
-overview:
-thumbnail:
-type: "Project"
-mode: Self
-status: Active
-access: 1
-tags: []
-locale: en-IN
-first_published: Thu Aug 21 2023 06:59:46 GMT+0530 (India Standard Time)
-last_updated: Thu Aug 21 2023 06:59:46 GMT+0530 (India Standard Time)
-author: STEMVentor
-attribution:
-license:
-complexity: Simple
-level:
-minutes:
-credits:
-draft: false
-canonical_url:
----
-
 ## Smart Traffic management
 
 In this project we would be developing a smart traffic signal system.
